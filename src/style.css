@@ -1,0 +1,13 @@
+body {
+  padding: 1em 7em;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  gap: 2em;
+}
+
+.button {
+  cursor: pointer;
+}
